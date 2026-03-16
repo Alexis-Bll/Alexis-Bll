@@ -34,7 +34,7 @@ The aim is to demonstrate practical networking knowledge alongside my certificat
 
 - Cisco Certified Network Associate (CCNA)
 
-[![CCNA](https://images.credly.com/size/340x340/images/6a254dad-77e5-4e3f-bc39-44f3c5a2b9f2/ccna.png)](https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url)
+[![CCNA](https://images.credly.com/images/6a254dad-77e5-4e3f-bc39-44f3c5a2b9f2/ccna.png)](https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url)
 
 ## Technologies
 
