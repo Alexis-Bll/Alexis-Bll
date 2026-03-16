@@ -32,7 +32,9 @@ The aim is to demonstrate practical networking knowledge alongside my certificat
 
 ## Certifications
 
-[![CCNA Badge](ccna.png)](https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url)
+<a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
+  <img src="ccna.png" width="200">
+</a>
 
 Cisco Certified Network Associate (CCNA)
 
