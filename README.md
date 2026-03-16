@@ -4,6 +4,14 @@ I am an aspiring Network Engineer from the UK with a First Class degree in Foren
 
 I have recently achieved the Cisco CCNA certification and I am currently studying for the Fortinet NSE4 certification. My goal is to build a career in networking, infrastructure and network security.
 
+## Certifications
+
+<a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
+  <img src="ccna.png" width="180">
+</a>
+
+Cisco Certified Network Associate (CCNA)
+
 ## What this GitHub is for
 
 This GitHub is used to document my personal networking labs and projects. I build and test network environments using EVE-NG to practice real-world networking scenarios.
@@ -29,14 +37,6 @@ The aim is to demonstrate practical networking knowledge alongside my certificat
 - Expanding my home lab environment using EVE-NG
 - Studying for the Fortinet NSE4 certification
 - Building documented networking projects
-
-## Certifications
-
-<a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
-  <img src="ccna.png" width="180">
-</a>
-
-Cisco Certified Network Associate (CCNA)
 
 ## Technologies
 
