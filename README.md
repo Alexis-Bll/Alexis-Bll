@@ -31,7 +31,8 @@ The aim is to demonstrate practical networking knowledge alongside my certificat
 - Building documented networking projects
 
 ## Certifications
-![CCNA Badge](ccna-badge.png)
+
+![CCNA Badge](ccna.png)
 
 Cisco Certified Network Associate (CCNA)
 
