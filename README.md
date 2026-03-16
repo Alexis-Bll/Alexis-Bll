@@ -1,4 +1,4 @@
-# Hi, I'm Alexis Bratchell 👋
+# Hi, I'm Alexis 👋
 
 I am an aspiring Network Engineer from the UK with a First Class degree in Forensic Computing & Security from Bournemouth University.
 
