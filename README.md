@@ -1,8 +1,10 @@
 # Hi, I'm Alexis 👋
 
-I am an aspiring Network Engineer from the UK with a First Class degree in Forensic Computing & Security from Bournemouth University.
+I am a UK-based Network Engineer focused on building practical, real-world networking skills.
 
-I have recently achieved the Cisco CCNA certification and I am currently studying for the Fortinet NSE4 certification. My goal is to build a career in networking, infrastructure and network security.
+I hold a **First Class degree in Forensic Computing & Security (Bournemouth University)** and have achieved the **Cisco CCNA certification**. I am currently studying for the **Fortinet NSE4 (FCP)** to develop my skills in network security and firewalls.
+
+---
 
 ## Certifications
 
@@ -10,44 +12,50 @@ I have recently achieved the Cisco CCNA certification and I am currently studyin
   <img src="ccna.png" width="180">
 </a>
 
-Cisco Certified Network Associate (CCNA)
+**Cisco Certified Network Associate (CCNA)**
 
-## What this GitHub is for
+---
 
-This GitHub is used to document my personal networking labs and projects. I build and test network environments using EVE-NG to practice real-world networking scenarios.
+## What this GitHub showcases
 
-These labs include topics such as:
+This GitHub documents hands-on networking labs where I design, build, and test enterprise-style network environments using EVE-NG.
 
-- VLAN configuration
-- Routing protocols (OSPF, static routing)
-- Network redundancy
-- NAT and ACLs
-- Firewall configuration
-- VPN technologies
+### 🔹 Featured Project
 
-Each project includes:
-- Network diagrams
-- Configuration files
-- Lab explanations
+**Enterprise Network Lab**
 
-The aim is to demonstrate practical networking knowledge alongside my certifications.
+* Multi-site network (HQ + branches)
+* OSPF routing across WAN
+* HSRP gateway redundancy
+* VLAN segmentation and inter-VLAN routing
+* EtherChannel and STP optimisation
+* ACLs for traffic control
+* DHCP Snooping, Dynamic ARP Inspection, and Port Security
+* Full configuration set and testing validation
 
-## Current focus
+👉 [View the project](./enterprise-network-lab/)
 
-- Expanding my home lab environment using EVE-NG
-- Studying for the Fortinet NSE4 certification
-- Building documented networking projects
+---
+
+## What I’m currently working on
+
+* Studying for the **Fortinet NSE4 (FCP)** certification
+* Expanding my lab to include **firewalls, NAT, and VPNs**
+* Building additional real-world networking scenarios
+
+---
 
 ## Technologies
 
-- Cisco IOS
-- Fortinet
-- EVE-NG
-- Networking fundamentals
-- Network security
+* Cisco IOS
+* Fortinet (in progress)
+* EVE-NG
+* Routing (OSPF)
+* Switching (VLANs, STP, EtherChannel)
+* Network security (ACLs, DHCP Snooping, DAI, Port Security)
 
-## Future goals
+---
 
-- Gain a role in network engineering or network security
-- Continue developing practical lab projects
-- Expand knowledge of enterprise networking and cloud infrastructure
+## Career Goal
+
+I am seeking a **Junior Network Engineer / IT Infrastructure role** where I can apply my hands-on lab experience and continue developing in a professional environment.
