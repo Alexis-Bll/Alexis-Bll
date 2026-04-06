@@ -33,7 +33,7 @@ This GitHub documents hands-on networking labs where I design, build, and test e
 * DHCP Snooping, Dynamic ARP Inspection, and Port Security
 * Full configuration set and testing validation
 
-👉 [View the project](./enterprise-network-lab/)
+👉 [View the project](https://github.com/Alexis-Bll/network-lab-portfolio/tree/main/enterprise-network-lab)
 
 ---
 
