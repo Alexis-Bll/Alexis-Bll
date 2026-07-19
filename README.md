@@ -14,6 +14,10 @@ I hold a **First Class BSc in Forensic Computing & Security from Bournemouth Uni
 
 **Cisco Certified Network Associate (CCNA)**
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cca9f18f-321a-4ab4-85fb-c7b6f901ea93" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+**Fortinet NSE 3 Certified in Cybersecurity**
+
 ---
 
 ## Current Role
