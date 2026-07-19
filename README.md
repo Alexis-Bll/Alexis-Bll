@@ -8,21 +8,30 @@ I hold a **First Class BSc in Forensic Computing & Security from Bournemouth Uni
 
 ## Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
-    <img src="ccna.png" width="180" alt="Cisco Certified Network Associate badge">
-  </a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
+        <img src="ccna.png" height="150" alt="Cisco Certified Network Associate badge">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/cca9f18f-321a-4ab4-85fb-c7b6f901ea93/public_url">
+        <img src="fortinet-nse-3.png" height="150" alt="Fortinet Certified Associate in Cybersecurity badge">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Cisco Certified Network Associate (CCNA)</strong>
+    </td>
+    <td align="center">
+      <strong>Fortinet Certified Associate in Cybersecurity</strong>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.credly.com/badges/cca9f18f-321a-4ab4-85fb-c7b6f901ea93/public_url">
-    <img src="fortinet-nse-3.png" width="180" alt="Fortinet cybersecurity certification badge">
-  </a>
-</p>
-
-**Cisco Certified Network Associate (CCNA)**
-
-**Fortinet Certified Associate in Cybersecurity**
 ---
-
 ## Current Role
 
 In my role as a Junior Network and IT Engineer, I support and troubleshoot live customer environments involving:
