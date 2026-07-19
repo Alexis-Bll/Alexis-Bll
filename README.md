@@ -14,13 +14,11 @@ I hold a **First Class BSc in Forensic Computing & Security from Bournemouth Uni
 
 **Cisco Certified Network Associate (CCNA)**
 
-Additional professional development includes Fortinet network-security training and 3CX certification.
-
 ---
 
 ## Current Role
 
-In my role as a Junior Network Engineer, I support and troubleshoot live customer environments involving:
+In my role as a Junior Network and IT Engineer, I support and troubleshoot live customer environments involving:
 
 - LAN, WAN, VLAN, and wireless connectivity
 - Cisco Meraki MX, MS, and MR infrastructure
