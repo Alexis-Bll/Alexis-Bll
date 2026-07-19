@@ -8,16 +8,19 @@ I hold a **First Class BSc in Forensic Computing & Security from Bournemouth Uni
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
-  <img src="ccna.png" width="180" alt="Cisco Certified Network Associate badge">
-</a>
+<p align="left">
+  <a href="https://www.credly.com/badges/266127bb-dbe7-4faf-a2c9-eb2290d0bf49/public_url">
+    <img src="ccna.png" width="180" alt="Cisco Certified Network Associate badge">
+  </a>
+
+  <a href="https://www.credly.com/badges/cca9f18f-321a-4ab4-85fb-c7b6f901ea93/public_url">
+    <img src="fortinet-nse-3.png" width="180" alt="Fortinet cybersecurity certification badge">
+  </a>
+</p>
 
 **Cisco Certified Network Associate (CCNA)**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cca9f18f-321a-4ab4-85fb-c7b6f901ea93" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-**Fortinet NSE 3 Certified in Cybersecurity**
-
+**Fortinet Certified Associate in Cybersecurity**
 ---
 
 ## Current Role
