@@ -1,6 +1,6 @@
 # Hi, I'm Alexis 👋
 
-I am a UK-based **Junior Network Engineer** working in a managed service provider environment, supporting network and IT infrastructure across multi-site hospitality environments.
+I am a UK-based **Junior Network and IT Engineer** working in a managed service provider environment, supporting network and IT infrastructure across multi-site hospitality environments.
 
 I hold a **First Class BSc in Forensic Computing & Security from Bournemouth University** and the **Cisco Certified Network Associate (CCNA)** certification. My current development is focused on Fortinet, Cisco Meraki, Windows Server, network monitoring, and practical infrastructure troubleshooting.
 
